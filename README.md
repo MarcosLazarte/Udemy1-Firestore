@@ -1,3 +1,5 @@
+Este programa fue hecho durante el curso de React 2021 de Udemy, utiliza la base de datos de firestore para subir contactos (nombre y telefono) y la aplicación te los muestra, además, te permite tanto borrarlos como editarlos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### 'npm install'
 
 ### `npm start`
 
