@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Udemy1-Firestore/static/css/main.434d85ca.css",
+    "main.js": "/Udemy1-Firestore/static/js/main.5ec7ad9f.js",
+    "index.html": "/Udemy1-Firestore/index.html",
+    "main.434d85ca.css.map": "/Udemy1-Firestore/static/css/main.434d85ca.css.map",
+    "main.5ec7ad9f.js.map": "/Udemy1-Firestore/static/js/main.5ec7ad9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.5ec7ad9f.js"
+  ]
+}
